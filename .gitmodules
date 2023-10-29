@@ -1,0 +1,3 @@
+[submodule "rust-axum-course"]
+	path = rust-axum-course
+	url = https://github.com/int0p/rust-axum-course.git
